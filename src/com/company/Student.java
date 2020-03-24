@@ -1,7 +1,7 @@
 package com.company;
 
 /**
- * This is super student class!
+ * This is super student class!!!
  */
 public class Student {
     private String name;
